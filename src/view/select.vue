@@ -312,7 +312,7 @@ export default {
           id: 34,
           title: "“挑战杯”大学生课外学术科技作品竞赛",
           info:
-            "灵感、努力、合作，智慧的光辉正在闪闪发亮。",
+            "在这项被誉为当代大学生科技创新“奥林匹克”盛会的赛事中，你可以尽情展示创新风采，领悟前沿科技。",
           color: "blue",
           url: require("../assets/images/34.jpg"),
           select: false
@@ -347,7 +347,7 @@ export default {
         {
           id: 38,
           title: "校长思政第一课",
-          info: "高松校长亲自来到大学城校区音乐厅，为师生们讲述华南理工大学百年办学历史，深厚传统文化。",
+          info: "高松校长来到大学城校区音乐厅，为师生们讲述华南理工大学百年办学历史，深厚传统文化。",
           color: "red",
           url: require("../assets/images/38.jpg"),
           select: false
@@ -388,22 +388,14 @@ export default {
           url: require("../assets/images/42.jpg"),
           select: false
         },
+    
         {
           id: 43,
-          title: "助力学校捧得“挑战杯”全国赛“优胜杯”",
-          info:
-            "用创新展现青春底色，优秀学子再创佳绩。",
-          color: "blue",
-          url: require("../assets/images/43.jpg"),
-          select: false
-        },
-        {
-          id: 44,
           title: "走近诺贝尔学术报告会",
           info:
             "2019年诺贝尔生理学或医学奖获得者Gregg L. Semenza（格雷格·塞门扎）院士为华工师生们带来了一场生动的学术报告会。",
           color: "blue",
-          url: require("../assets/images/44.jpg"),
+          url: require("../assets/images/43.jpg"),
           select: false
         },
       
